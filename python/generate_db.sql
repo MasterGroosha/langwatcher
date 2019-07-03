@@ -1,0 +1,37 @@
+-- This SQL script creates an SQLite database to store Telegram Langpacks strings
+-- You can import it as (need sqlite3 package, tested on Ubuntu):
+-- sqlite3 strings.db < generate_db.sql
+
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "versions" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"platform"	TEXT NOT NULL UNIQUE,
+	"version"	NUMERIC NOT NULL
+);
+CREATE TABLE IF NOT EXISTS "android" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"key"	TEXT NOT NULL UNIQUE,
+	"value"	TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS "ios" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"key"	TEXT NOT NULL UNIQUE,
+	"value"	TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS "tdesktop" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"key"	TEXT NOT NULL UNIQUE,
+	"value"	TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS "android_x" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"key"	TEXT NOT NULL UNIQUE,
+	"value"	TEXT NOT NULL
+);
+-- Not used for now
+CREATE TABLE IF NOT EXISTS "macos" (
+	"id"	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	"key"	TEXT NOT NULL UNIQUE,
+	"value"	TEXT NOT NULL
+);
+COMMIT;

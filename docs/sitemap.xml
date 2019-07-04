@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mastergroosha.github.io/telegram-tutorial/categories/</loc>
+    <loc>https://mastergroosha.github.io/langwatcher/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mastergroosha.github.io/telegram-tutorial/tags/</loc>
+    <loc>https://mastergroosha.github.io/langwatcher/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mastergroosha.github.io/telegram-tutorial/</loc>
+    <loc>https://mastergroosha.github.io/langwatcher/</loc>
   </url>
   
 </urlset>

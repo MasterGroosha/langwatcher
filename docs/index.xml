@@ -21,5 +21,14 @@
 If you see this, then something cool is going to happen!</description>
     </item>
     
+    <item>
+      <title>About this website</title>
+      <link>https://mastergroosha.github.io/langwatcher/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/about/</guid>
+      <description>What is it? This is LangWatcher, a static website to view new and changed string in Telegram locale files. You can view source code on Github</description>
+    </item>
+    
   </channel>
 </rss>

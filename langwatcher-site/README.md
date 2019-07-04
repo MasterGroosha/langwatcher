@@ -1,0 +1,1 @@
+This directory contains website source, which is used by Hugo to build a static website.

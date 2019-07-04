@@ -1,3 +1,9 @@
 
 # Telethon session files
 *.session 
+
+# Backup files
+*.bak
+
+# Hugo binary, we don't need it
+hugo.exe

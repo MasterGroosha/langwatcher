@@ -5,3 +5,4 @@ api_hash = "abc123456xyz"  # Your API Hash (after you registered Telegram app)
 session_name = "tlaccount" # Telethon account filename
 current_layer = 100  # I don't think you'll need to change it
 db_name = "strings.db"  # Database file. Same name is used in reset_db.* scripts
+language = "en"  # Language to retrieve. You can use custom langpack name here

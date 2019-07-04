@@ -7,3 +7,14 @@
 
 # Hugo binary, we don't need it
 hugo.exe
+
+# PyCharm & venv
+python/.idea/
+python/venv/
+python/__pycache__/
+
+# Real config
+python/config.py
+
+# Database file (generate it yourself)
+strings.db

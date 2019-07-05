@@ -28,13 +28,16 @@ async def generate_post(changes: dict) -> bool:
         if len(changes[platform]["new"]) > 0:
             elements.append("<h4>New strings:</h4>\n{{< highlight diff >}}\n")
             for item in changes[platform]["new"]:
-                elements.append("+ {key}: {value}\n".format(key=item[0], value=item[1]))
+                elements.append("+ {key}: {value}\n".format(key=item[0], value=item[1].replace("\n", "\\n")))
             elements.append("{{< /highlight >}}\n\n")
         if len(changes[platform]["changed"]) > 0:
             elements.append("<h4>Changed strings:</h4>\n{{< highlight diff >}}\n")
             for item in changes[platform]["changed"]:
                 elements.append("- {key}: {oldvalue}\n+ {key}: {newvalue}\n"
-                                .format(key=item[0], oldvalue=item[1], newvalue=item[2]))
+                                .format(key=item[0],
+                                        oldvalue=item[1].replace("\n", "\\n"),
+                                        newvalue=item[2].replace("\n", "\\n")
+                                        ))
             elements.append("{{< /highlight >}}\n")
 
     # Hardcode :(

@@ -27,20 +27,18 @@ publishDir = "../Docs"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "02.01.2006"
+    dateFormatSingle = "02.01.2006 15:04 -0700"
     dateFormatList = "02.01.2006"
 
     [languages.en.params.logo]
       logoText = "LangWatcher"
       logoHomeLink = "/langwatcher"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
-    [languages.en.menu]
+  [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
+
+
 

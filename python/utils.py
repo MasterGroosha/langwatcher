@@ -20,7 +20,7 @@ async def prepare_dict(pack: LangPackDifference) -> Optional[dict]:
 async def generate_post(changes: dict) -> bool:
     elements = ["---\n",
                 "title: Changes to {}\n".format(", ".join(platform for platform in changes)),
-                "date: {}\n".format(strftime("%Y-%m-%d", gmtime())),
+                "date: {}\n".format(strftime("%Y-%m-%dT%H:%M:%S", gmtime())),
                 "---\n"]
 
     for platform in changes:

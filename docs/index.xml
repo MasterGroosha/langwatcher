@@ -6,10 +6,20 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 22:00:40 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201907052156/</link>
+      <pubDate>Fri, 05 Jul 2019 22:00:40 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201907052156/</guid>
+      <description>TDesktop New strings: + lng_info_mobile_hidden: Hidden 
+Changed strings: - lng_rights_about_admin_cant_edit: You are not allowed to edit the rights of this admin.+ lng_rights_about_admin_cant_edit: You cannot edit the rights of this admin.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>
@@ -27,16 +37,6 @@
       
       <guid>https://mastergroosha.github.io/langwatcher/posts/201907051251.ru/</guid>
       <description>Android New strings: + Page5Message: **Telegram** не ограничивает размер\n Ваших медиафайлов и чатов.</description>
-    </item>
-    
-    <item>
-      <title>Changes to TDesktop</title>
-      <link>https://mastergroosha.github.io/langwatcher/posts/201907052156/</link>
-      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mastergroosha.github.io/langwatcher/posts/201907052156/</guid>
-      <description>TDesktop New strings: + lng_info_mobile_hidden: Hidden 
-Changed strings: - lng_rights_about_admin_cant_edit: You are not allowed to edit the rights of this admin.+ lng_rights_about_admin_cant_edit: You cannot edit the rights of this admin.</description>
     </item>
     
     <item>

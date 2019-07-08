@@ -18,7 +18,7 @@
       
       <guid>https://mastergroosha.github.io/langwatcher/posts/201907052156/</guid>
       <description>TDesktop New strings: + lng_info_mobile_hidden: Hidden 
-Changed strings: - lng_rights_about_admin_cant_edit: You are not allowed to edit the rights of this admin.+ lng_rights_about_admin_cant_edit: You cannot edit the rights of this admin.</description>
+Changed strings: - lng_rights_about_admin_cant_edit: You are not allowed to edit the rights of this admin. + lng_rights_about_admin_cant_edit: You cannot edit the rights of this admin.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@ Changed strings: - lng_rights_about_admin_cant_edit: You are not allowed to edit
       <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://mastergroosha.github.io/langwatcher/posts/201907051246.ru/</guid>
-      <description>Android New strings: + Page3Message: **Telegram** бесплатный навсегда. Без рекламы.Без абонентской платы.</description>
+      <description>Android New strings: + Page3Message: **Telegram** бесплатный навсегда. Без рекламы. Без абонентской платы.</description>
     </item>
     
     <item>

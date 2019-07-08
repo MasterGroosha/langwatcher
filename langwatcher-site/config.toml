@@ -2,7 +2,7 @@ baseurl = "https://mastergroosha.github.io/langwatcher/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
-publishDir = "../Docs"
+publishDir = "../docs"
 
 [params]
   # dir name of your blog content (default is `content/posts`)

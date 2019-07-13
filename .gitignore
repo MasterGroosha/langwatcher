@@ -12,9 +12,17 @@ hugo.exe
 python/.idea/
 python/venv/
 python/__pycache__/
+python/bin/
+python/lib
+python/lib64
+python/pyvenv.cfg
 
 # Real config
 python/config.py
 
 # Database file (generate it yourself)
 strings.db
+python/strings.db.tmp
+
+# Watcher.py is ignored for now, since it contains some sensitive data
+python/watcher.py

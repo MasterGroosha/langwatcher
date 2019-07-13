@@ -1,3 +1,4 @@
+#!/home/botfather/langwatcher/python/bin/python
 # -*- coding: utf-8 -*-
 
 import asyncio

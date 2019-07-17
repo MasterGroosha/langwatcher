@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 22:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 20:58:39 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201907172058/</link>
+      <pubDate>Wed, 17 Jul 2019 20:58:39 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201907172058/</guid>
+      <description>iOS Changed strings: - Passport.Address.AddRentalAgreement: Add Tenancy Agreement + Passport.Address.AddRentalAgreement: Add Tenancy Agreement - PINNED_STICKER: %1$@ pinned a %2$@sticker + PINNED_STICKER: %1$@ pinned a %2$@ sticker - Login.InvalidLastNameError: Invalid last name. Please try again. + Login.InvalidLastNameError: Sorry, this last name can&amp;#39;t be used. - PrivacyPolicy.AgeVerificationMessage: Tap Agree to confirm that you are %@ or over. + PrivacyPolicy.AgeVerificationMessage: Tap Agree to confirm that you are %@ or older.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

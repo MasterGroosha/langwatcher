@@ -8,6 +8,6 @@ cd langwatcher-site
 hugo
 cd ..
 git add .
-git commit -m "Autocommit $(date +%Y%m%d-%H:%M)"
+git commit -m "Autocommit $(date +%Y%m%d-%H:%M) GMT"
 git push origin master
 echo "Done"

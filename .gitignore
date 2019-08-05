@@ -26,3 +26,6 @@ python/strings.db.tmp
 
 # Watcher.py is ignored for now, since it contains some sensitive data
 python/watcher.py
+
+# Autoupdater script
+langwatcher.sh

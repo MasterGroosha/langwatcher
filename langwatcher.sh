@@ -1,10 +1,9 @@
 #!/bin/bash
 
+git pull
 cd /home/botfather/langwatcher/python
 bin/python watcher.py
-cd ..
-git pull
-cd langwatcher-site
+cd ../langwatcher-site
 hugo
 cd ..
 git add .

@@ -6,10 +6,29 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2019 14:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 16:00:06 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908071600/</link>
+      <pubDate>Wed, 07 Aug 2019 16:00:06 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908071600/</guid>
+      <description>Android_X New strings: + format_concatSeparatorLastPerson: and + AppUpdateRestart: Restart + AppUpdateReady: Telegram X is ready to be updated. + UpgradeChatPrompt: To perform this action, this chat will be converted to supergroup.\n\n**Note**: new members will not see messages sent before the conversion. + ChatRestrictedMessages: Admins have restricted you from sending messages in this group + ChatRestrictedPolls: Admins have restricted you from sending polls in this group + ChatRestrictedMedia: Admins have restricted you from sending media in this group + ChatRestrictedStickers: Admins have restricted you from sending stickers in this group + ChatRestrictedBots: Admins have restricted you from using inline bots in this group + ChatRestrictedGifs: Admins have restricted you from sending GIFs in this group + ChatDisabledMessages: Only admins can write messages in this group + ChatDisabledPolls: Only admins can create polls in this group + ChatDisabledMedia: Only admins can send media in this group + ChatDisabledBots: Only admins can use inline bots in this group + ChatDisabledGifs: Only admins can send GIFs in this group + xPermissions_one: %1$s of %2$s + xPermissions_other: %1$s of %2$s + format_nameStatusDate: %1$s\n%2$s\n%3$s + format_nameAndStatus: %1$s\n%2$s + format_nameAndDate: %1$s\n%2$s + format_statusAndDate: %1$s\n%2$s + MemberSince: Member since %1$s %2$s + WhatMembersCanDo: What can members of this group do?</description>
+    </item>
+    
+    <item>
+      <title>Changes to Android</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908071400/</link>
+      <pubDate>Wed, 07 Aug 2019 14:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908071400/</guid>
+      <description>Android New strings: + LargeEmoji: Large Emoji 
+Changed strings: - FloodWaitTime: Too many attempts, please try again in %1$s + FloodWaitTime: Too many attempts, please try again in %1$s</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS</title>

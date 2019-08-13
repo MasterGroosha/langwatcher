@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2019 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908131600/</link>
+      <pubDate>Tue, 13 Aug 2019 16:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908131600/</guid>
+      <description>Android Changed strings: - PrivacyForwardsInfo: When forwarded to other chats, messages you send will not link back to your account. + PrivacyForwardsInfo: Messages you send will not link back to your account when forwarded by other users.  iOS Changed strings: - Privacy.Forwards.CustomHelp: When forwarded to other chats, messages you send will not link back to your account. + Privacy.Forwards.CustomHelp: Messages you send will not link back to your account when forwarded by other users.</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS, TDesktop</title>

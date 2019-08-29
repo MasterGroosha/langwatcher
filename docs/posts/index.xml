@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 18:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908291800/</link>
+      <pubDate>Thu, 29 Aug 2019 18:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908291800/</guid>
+      <description>TDesktop New strings: + lng_admin_log_slow_mode_seconds_one: {count} second + lng_admin_log_slow_mode_seconds_other: {count} seconds + lng_admin_log_removed_slow_mode: {from} disabled slow mode + lng_admin_log_changed_slow_mode: {from} changed slow mode to {duration} + lng_admin_log_slow_mode_minutes_one: {count} minute + lng_admin_log_slow_mode_minutes_other: {count} minutes + lng_rights_slowmode_header: Slow mode + lng_rights_slowmode_seconds_one: {count}s + lng_rights_slowmode_seconds_other: {count}s + lng_rights_slowmode_minutes_one: {count}m + lng_rights_slowmode_minutes_other: {count}m + lng_rights_slowmode_hours_one: {count}h + lng_rights_slowmode_hours_other: {count}h + lng_rights_slowmode_off: Off + lng_rights_slowmode_about: Members will be able to send only one message per this interval.</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

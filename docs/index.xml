@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2019 18:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 18:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908301800/</link>
+      <pubDate>Fri, 30 Aug 2019 18:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908301800/</guid>
+      <description>Android Changed strings: - ThemeBlue: Blue + ThemeBlue: Mono</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

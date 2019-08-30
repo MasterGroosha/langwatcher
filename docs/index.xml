@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2019 18:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 20:00:12 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201908302000/</link>
+      <pubDate>Fri, 30 Aug 2019 20:00:12 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201908302000/</guid>
+      <description>Android Changed strings: - PhoneNumberAlert: All your Telegram contacts will get your new number added to their address book, provided they had your old number and you haven&amp;#39;t blocked them in Telegram. + PhoneNumberAlert: Users will see your new number if they have it in their address book or your privacy settings allow them to see it. You can modify this in Settings &amp;gt; Privacy and Security &amp;gt; Phone number.  iOS New strings: + AccentColor.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

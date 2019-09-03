@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 18:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201909031800/</link>
+      <pubDate>Tue, 03 Sep 2019 18:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201909031800/</guid>
+      <description>TDesktop New strings: + lng_context_send_now_msg: Send now + lng_context_send_now_selected: Send selected now + lng_edit_privacy_phone_number_contacts: Users who add your number to their contacts will see it on Telegram only if they are your contacts. + lng_edit_privacy_phone_number_find: Who can find me by my number + lng_notification_reminder: Reminder + lng_remind_title: Remind me on... + lng_reminder_message: Set a reminder + lng_reminder_messages: Reminders + lng_schedule_at: at + lng_schedule_message: Schedule message + lng_schedule_title: Send this message on.</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

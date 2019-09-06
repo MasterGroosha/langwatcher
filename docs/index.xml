@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2019 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 00:00:07 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201909060000/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:07 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201909060000/</guid>
+      <description>Android New strings: + SetReminder: Set a reminder + RemindTodayAt: &amp;#39;Remind today at&amp;#39; HH:mm + RemindDayAt: &amp;#39;Remind on&amp;#39; MMM d &amp;#39;at&amp;#39; HH:mm + RemindDayYearAt: &amp;#39;Remind on&amp;#39; MMM d yyyy &amp;#39;at&amp;#39; HH:mm + Reminders: Reminders + PrivacyPhoneTitle2: Who can find me by my number? + PrivacyPhoneInfo3: Users who add your number to their contacts will see it on Telegram only if they are your contacts. + ThemeSetUrl: Set link + ThemeUrl: Theme Link + SetUrlPlaceholder: Link + ThemeSetUrlHelp: You can use a-z, 0-9 and underscores.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

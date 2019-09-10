@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 12:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201909101200/</link>
+      <pubDate>Tue, 10 Sep 2019 12:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201909101200/</guid>
+      <description>TDesktop New strings: + lng_theme_editor_create_title: Create theme + lng_theme_editor_create_description: New theme will be based on your currently selected colors and wallpaper. Alternatively, you can import existing theme or color palette from file. + lng_theme_editor_import_existing: Import existing theme + lng_theme_editor_create: Create + lng_theme_editor_save_button: Save theme + lng_theme_editor_save_title: Save theme + lng_theme_editor_name: Theme name + lng_theme_editor_link_about: Your theme will be updated for all users each time you change it. Anyone can install it using this link.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

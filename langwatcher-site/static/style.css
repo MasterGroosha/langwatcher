@@ -2,4 +2,8 @@
 .logo__cursor {
   display: none;
 }
+
+pre {
+  white-space: pre-wrap;
+}
 </style>

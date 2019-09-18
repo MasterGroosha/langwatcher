@@ -6,5 +6,6 @@
 pre {
   display: inline-block;
   white-space: pre-wrap;
+  width: 100%;
 }
 </style>

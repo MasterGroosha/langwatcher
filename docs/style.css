@@ -4,8 +4,8 @@
 }
 
 pre {
-  display: inline-block;
-  white-space: pre-wrap;
-  width: 100%;
+  code {
+    white-space: pre-wrap;  	
+  }
 }
 </style>

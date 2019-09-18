@@ -1,0 +1,9 @@
+# This is template for Telegram's InstantView.
+# You MUST adapt it for your own website.
+
+~version: "2.1"
+
+?path: /langwatcher/.*
+body: //div[@class="post-content"]
+title: //h2[@class="post-title"]//a
+published_date: //span[@class="post-date"]

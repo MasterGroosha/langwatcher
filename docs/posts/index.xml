@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 12:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 10:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android_X</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201909221000/</link>
+      <pubDate>Sun, 22 Sep 2019 10:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201909221000/</guid>
+      <description>Android_X New strings: + DiscardEditCaptionHint: Are you sure you want to discard edited caption? These changes will be lost. + DiscardEditCaption: Discard caption + DiscardEditMsgHint: Are you sure you want to discard edited message? These changes will be lost. + DiscardEditMsg: Discard message + AnimatedSticker: Animated Sticker + DisplaySensitiveContent: Display sensitive content + MediaRestricted: Media unavailable + ChatContentRestricted: Content Unavailable 
+Changed strings: - MasksHint: You can add masks to photos and videos you send.</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

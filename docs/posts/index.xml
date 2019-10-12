@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 22:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201910122200/</link>
+      <pubDate>Sat, 12 Oct 2019 22:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201910122200/</guid>
+      <description>iOS New strings: + ChatList.Context.MarkAsRead: Mark as Read + ChatList.Context.Unpin: Unpin + ChatList.Context.Mute: Mute + ChatList.Context.Delete: Delete + ChatList.Context.MarkAsUnread: Mark as Unread + ChatList.Context.Pin: Pin + ChatList.Context.Unmute: Unmute + Settings.Context.Logout: Log Out + ChatList.Context.UnhideArchive: Pin in the list + Updated.TodayAt: today at %@ + Updated.AtDate: %@ + Updated.YesterdayAt: yesterday at %@ + Updated.HoursAgo_one: 1 hour ago + Updated.HoursAgo_other: %@ hours ago + Updated.MinutesAgo_one: 1 minute ago + Updated.MinutesAgo_other: %@ minutes ago + Updated.</description>
+    </item>
     
     <item>
       <title>Changes to Android_X</title>

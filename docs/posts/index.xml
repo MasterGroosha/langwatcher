@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 22:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201911081600/</link>
+      <pubDate>Fri, 08 Nov 2019 16:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201911081600/</guid>
+      <description>iOS New strings: + GroupInfo.ShowMoreMembers_one: Show %@ More Members + GroupInfo.ShowMoreMembers_other: Show %@ More Members</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

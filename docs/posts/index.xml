@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 16:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 12:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/201912311200/</link>
+      <pubDate>Tue, 31 Dec 2019 12:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/201912311200/</guid>
+      <description>TDesktop New strings: + lng_intro_qr_step3: Scan this image to Log In + lng_intro_qr_step2: Go to Settings &amp;gt; Devices &amp;gt; Scan QR Code + lng_intro_qr_step1: Open Telegram on your phone + lng_mac_menu_emoji_and_symbols: Emoji &amp;amp; Symbols + lng_spellchecker_ignore: Ignore word + lng_spellchecker_remove: Remove from Dictionary + lng_spellchecker_add: Add to Dictionary + lng_settings_system_spellchecker: Use system spell checker + lng_settings_spellchecker: Spell checker + lng_settings_sensitive_about: Display sensitive media in public channels on all your Telegram devices.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

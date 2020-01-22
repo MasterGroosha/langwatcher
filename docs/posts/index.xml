@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 18:00:06 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202001221800/</link>
+      <pubDate>Wed, 22 Jan 2020 18:00:06 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202001221800/</guid>
+      <description>Android New strings: + ActionPinnedQuiz: un1 pinned a quiz + AnonymousQuizPoll: Anonymous Quiz + Answer_one: %1$d answer + Answer_other: %1$d answers + BubbleRadius: Message corners + ChannelMessageQuiz2: %1$s posted the quiz &amp;#34;%2$s&amp;#34; + EventLogStopQuiz: un1 stopped the quiz: + MessageScheduledVoteResults: Poll results will become available after the message is published. + NoVotesQuiz: Nobody answered + NotificationActionPinnedQuiz2: %1$s pinned the quiz &amp;#34;%3$s&amp;#34; in the group %2$s + NotificationActionPinnedQuizChannel2: %1$s pinned the quiz &amp;#34;%2$s&amp;#34; + NotificationMessageGroupQuiz2: %1$s sent the quiz &amp;#34;%3$s&amp;#34; to the group %2$s + NotificationMessageQuiz2: %1$s sent you the quiz &amp;#34;%2$s&amp;#34; + PollAnonymous: Anonymous Voting + PollCantForwardSecretChat: Sorry, polls can’t be forwarded to secret chats.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2020 18:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 20:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202001232000/</link>
+      <pubDate>Thu, 23 Jan 2020 20:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202001232000/</guid>
+      <description>Android New strings: + QuizAnswers: Quiz answers + NewQuiz: New Quiz 
+iOS Changed strings: - PUSH_MESSAGE_QUIZ: %1$@|sent you a quiz %2$@ + PUSH_MESSAGE_QUIZ: %1$@|sent you the quiz &amp;#34;%2$@&amp;#34;</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS, Android_X, TDesktop</title>

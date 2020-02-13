@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2020 16:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 20:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202002132000/</link>
+      <pubDate>Thu, 13 Feb 2020 20:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202002132000/</guid>
+      <description>Android New strings: + BlockUsersMessage: Do you want to block **%1$s** from messaging and calling you on Telegram? + DeleteTheseChats: Delete chats + BlockUsers: Block users + BlockUserMessage: Do you want to block **%1$s** from messaging and calling you on Telegram? + UsersCount_one: %1$d user + UsersCount_other: %1$d users + UsersCountTitle_one: %1$d user + UsersCountTitle_other: %1$d users + MembersCountSelected_one: %1$d of %2$d selected + MembersCountSelected_other: %1$d of %2$d selected + Links_one: %1$d link + Links_other: %1$d links + Voice_one: %1$d voice message + Voice_other: %1$d voice messages + CommonGroups_one: %1$d group in common + CommonGroups_other: %1$d groups in common + MusicFiles_one: %1$d music file + MusicFiles_other: %1$d music files + NetworkUsageRoamingTab: Roaming + NetworkUsageWiFiTab: Wi-Fi + NetworkUsageMobileTab: Mobile + GifsTab2: GIFs + ImagesTab2: Images + PeopleNearbyInfo2: Exchange contact info with people nearby and find new friends.</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS, Android_X, TDesktop</title>

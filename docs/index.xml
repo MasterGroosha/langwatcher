@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 14:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202003131400/</link>
+      <pubDate>Fri, 13 Mar 2020 14:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202003131400/</guid>
+      <description>Android Changed strings: - PreviewFeedback: Leave feedback about this preview + PreviewFeedback: Report a bug with this preview  iOS Changed strings: - InstantPage.FeedbackButton: Leave feedback about this preview + InstantPage.FeedbackButton: Report a bug with this preview</description>
+    </item>
     
     <item>
       <title>Changes to Android_X</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 14:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 20:00:08 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202003272000/</link>
+      <pubDate>Fri, 27 Mar 2020 20:00:08 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202003272000/</guid>
+      <description>Android Changed strings: - PinToTopLimitReached: Sorry, you can only pin %1$s in your main list. If you&amp;#39;re looking for more organization, try archiving some chats – the Archived Chats folder allows unlimited pins. + PinToTopLimitReached: Sorry, you can only pin %1$s in your main list. For more organization, your Archived Chats list allows unlimited pins. - CallNotAvailable: Sorry, **%1$s** doesn&amp;#39;t accept calls. + CallNotAvailable: Sorry, you cannot call %1$s because of their privacy settings.</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS, Android_X</title>

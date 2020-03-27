@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 06:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 14:00:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202003271400/</link>
+      <pubDate>Fri, 27 Mar 2020 14:00:05 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202003271400/</guid>
+      <description>Android New strings: + AddMasksInstalledInfo: %1$s has been added to your masks. + AddStickersInstalledInfo: %1$s has been added to your stickers. + AddUserErrorBlacklisted: Sorry, you can&amp;#39;t add this user because they are on the list of Removed Users and you can&amp;#39;t unban them. + ArchiveStickerSetsAlertTitle: Archive %1$s + ArchiveStickersAlertMessage: Are you sure you want to archive the selected sticker sets? + ChannelVerifiedWarning: Warning + ClearSearchRemove: Remove + ClearSearchSingleAlertTitle: Search history + ClearSearchSingleChatAlertText: Are you sure you want to remove &amp;#34;%1$s&amp;#34; from search history?</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

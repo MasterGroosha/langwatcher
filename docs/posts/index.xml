@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 20:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 18:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202003301800/</link>
+      <pubDate>Mon, 30 Mar 2020 18:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202003301800/</guid>
+      <description>Android New strings: + FilterNameUnread: Unread + FilterNameNonMuted: Not Muted + NotificationsChartTitle: Notifications + TodayAtFormattedWithToday: today at %1$s + PinToTopLimitReached2: Sorry, you can only pin %1$s to the top in the main list. More chats can be pinned in Chat Folders and your Archive. + FilterExcludeInfo: Choose chats and types of chats that will not appear in this folder. + FilterIncludeInfo: Choose chats and types of chats that will appear in this folder.</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS, Android_X, TDesktop</title>

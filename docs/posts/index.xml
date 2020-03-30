@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2020 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 20:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202003302000/</link>
+      <pubDate>Mon, 30 Mar 2020 20:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202003302000/</guid>
+      <description>iOS Changed strings: - ChatListFolderSettings.Info: Create folders for different groups of chats and\nquickly switch between them. + ChatListFolderSettings.Info: Create folders for different groups of chats and quickly switch between them.</description>
+    </item>
     
     <item>
       <title>Changes to Android, TDesktop</title>

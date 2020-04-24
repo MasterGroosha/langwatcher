@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 08:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 12:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202004241200/</link>
+      <pubDate>Fri, 24 Apr 2020 12:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202004241200/</guid>
+      <description>Android New strings: + AreYouSureDeleteThisChatWithBot: Are you sure you want to delete the chat with **%1$s** and block them? + StatisticOverview: Overview + EnabledNotifications: Enabled Notifications + ViewsPerPost: Views Per Post + SharesPerPost: Shares Per Post + DeviceStorage: Device storage + TelegramCacheSize: %s Telegram Cache + TotalDeviceSize: %s Other Data + TotalDeviceFreeSize: %s Free + ClearTelegramCache: Clear Telegram Cache + ClearLocalDatabase: Clear Local Database + LocalDatabaseSize: %s Telegram Local Database + CacheWasCleared: %s freed on your device!</description>
+    </item>
     
     <item>
       <title>Changes to Android_X</title>

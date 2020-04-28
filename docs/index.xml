@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 20:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 14:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202004281400/</link>
+      <pubDate>Tue, 28 Apr 2020 14:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202004281400/</guid>
+      <description>TDesktop New strings: + cloud_lng_tooltip_psa_covid: This message provides you with a public service announcement in relation to the ongoing COVID-19 pandemic. Learn more about this initiative at https://telegram.org/blog/coronavirus + cloud_lng_forwarded_psa_covid: COVID-19 Notification from {channel} + cloud_lng_about_psa_covid: This message provides you with a public service announcement in relation to the ongoing COVID-19 pandemic. To remove it from your chats list, right click it and select **Hide**. + cloud_lng_badge_psa_covid: COVID-19</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

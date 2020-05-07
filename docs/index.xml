@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 12:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android_X</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202005071200/</link>
+      <pubDate>Thu, 07 May 2020 12:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202005071200/</guid>
+      <description>Android_X New strings: + BlockUserConfirm: Are you sure you want to block %1$s? + BlockedUser: %1$s has been blocked. + Camera: In-App Camera + CameraFlip: Pictures as previewed + CameraFlipInfo: Save selfies as they appear in the preview without flipping them. + CameraGrid: Grid Lines + CameraKeepMedia: Keep Discarded Media + CameraRatio: Aspect Ratio + CameraRatioFull: Full Screen + CameraType: Camera Type + CameraTypeLegacy: Legacy + CameraTypeSystem: System + CameraTypeXBeta: CameraX (experimental) + CameraVolume: Press Volume key to + CameraVolumeNone: System volume + CameraVolumeShoot: Take picture or record video + CameraVolumeZoom: Zoom + ChatContentDart1: Dart: missed!</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

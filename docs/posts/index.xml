@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2020 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 08:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202005140800/</link>
+      <pubDate>Thu, 14 May 2020 08:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202005140800/</guid>
+      <description>TDesktop New strings: + lng_admin_log_no_events_text_channel: There were no service actions\ntaken by the channels&amp;#39;s admins\nin the last 48 hours. + lng_settings_alert_mac: Bounce the Dock icon + lng_settings_alert_linux: Draw attention to the window + lng_settings_alert_windows: Flash the taskbar icon + lng_context_hide_psa: Hide this announcement + lng_forwarded_psa_default: Forwarded from {channel} + lng_manage_peer_subscribers: Subscribers + lng_profile_subscribers_section: Subscribers + lng_tooltip_psa_default: This message provides you with a public service announcement. + lng_about_psa_default: This message provides you with a public service announcement.</description>
+    </item>
     
     <item>
       <title>Changes to Android_X</title>

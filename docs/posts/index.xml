@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 08:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 20:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202005192000/</link>
+      <pubDate>Tue, 19 May 2020 20:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202005192000/</guid>
+      <description>Android New strings: + PsaHideChatAlertText: Are you sure you want to hide this chat? + PsaType_covid: COVID-19 + PsaMessage_covid: COVID-19 Notification + PsaInfo_covid: This message provides you with a public service announcement in relation to the ongoing COVID-19 pandemic. Learn more about this initiative at https://telegram.org/blog/coronavirus + PsaMessageInfo_covid: This message provides you with a public service announcement in relation to the ongoing COVID-19 pandemic. Learn more about this initiative at https://telegram.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

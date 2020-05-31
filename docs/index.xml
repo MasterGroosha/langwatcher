@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 20:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202005311600/</link>
+      <pubDate>Sun, 31 May 2020 16:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202005311600/</guid>
+      <description>iOS New strings: + ChatList.RemovedFromFolderTooltip: %1$@ has been removed from %2$@ + ChatList.Context.RemoveFromFolder: Remove from Folder + ChatList.AddedToFolderTooltip: %1$@ has been added to %2$@ + Conversation.Timer.Send: Send With Timer + Conversation.Timer.Title: Send With Timer + Media.SendWithTimer: Send With Timer + Media.SendingOptionsTooltip: Hold this button to send your message with a self-destruct timer. + Paint.Framed: Framed + Chat.Gifs.SavedSectionHeader: MY GIFS + Chat.Gifs.TrendingSectionHeader: TRENDING GIFS + TwoStepAuth.Disable: Disable + OwnershipTransfer.Transfer: Transfer + ChatList.</description>
+    </item>
     
     <item>
       <title>Changes to Android, iOS</title>

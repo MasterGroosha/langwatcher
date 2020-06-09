@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 22:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202006092200/</link>
+      <pubDate>Tue, 09 Jun 2020 22:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202006092200/</guid>
+      <description>Android New strings: + FilterRemoveFrom: Remove from folder + FilterAddTo: Add to folder + DeleteAllMessagesSavedAlert: Warning! This will **delete all messages** in this chat. + FilterUserRemovedFrom: **%1$s** removed from **%2$s** + FilterUserAddedToExisting: **%1$s** added to **%2$s** + FilterChatAddedToExisting: **%1$s** added to **%2$s** + FilterChatRemovedFrom: **%1$s** removed from **%2$s** + FilterChatsAddedToExisting: **%1$s** added to **%2$s** + FilterChatsRemovedFrom: **%1$s** removed from **%2$s** + FilterChoose: Choose a folder + FeaturedGifs: Trending GIFs + PaintFramed: Framed + QRCodePermissionNoCamera: Telegram needs access to your camera so that you can scan QR codes.</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

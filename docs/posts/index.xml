@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2020 22:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202006131600/</link>
+      <pubDate>Sat, 13 Jun 2020 16:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202006131600/</guid>
+      <description>iOS New strings: + ChatList.MessagePhotos_one: 1 Photo + ChatList.MessagePhotos_other: %@ Photos + ChatList.MessageVideos_one: 1 Video + ChatList.MessageVideos_other: %@ Videos + Conversation.NoticeInvitedByInChannel: %@ invited you to this channel + Conversation.NoticeInvitedByInGroup: %@ invited you to this group + Conversation.PrivateChannelTimeLimitedAlertText: This channel is private. Please join it to continue viewing its content. + KeyCommand.SearchInChat: Search in Chat + Paint.Arrow: Arrow + Paint.Neon: Neon + Paint.Marker: Marker + Paint.Pen: Pen + Conversation.PrivateChannelTimeLimitedAlertJoin: Join + Conversation.</description>
+    </item>
     
     <item>
       <title>Changes to Android, TDesktop</title>

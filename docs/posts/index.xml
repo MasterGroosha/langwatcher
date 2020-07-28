@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 12:00:19 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202007281200/</link>
+      <pubDate>Tue, 28 Jul 2020 12:00:19 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202007281200/</guid>
+      <description>Android New strings: + AccDescrQuizCorrectAnswer: Correct answer + AccDescrPipMode: Picture-in-Picture mode + AccDescrShareInChats_one: Share in %1$d chat + AccDescrShareInChats_other: Share in %1$d chats + AccDescrSendAudio_one: Send %1$d audio file + AccDescrSendAudio_other: Send %1$d audio files + AccDescrSendFiles_one: Send %1$d file + AccDescrSendFiles_other: Send %1$d files + AccDescrSendPhotos_one: Send %1$d photo + AccDescrSendPhotos_other: Send %1$d photos + NearbyPeopleGreetingsDescription: Send a message or tap on the greeting below to show that you are ready to chat.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

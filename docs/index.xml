@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2020 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 22:00:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202008132200/</link>
+      <pubDate>Thu, 13 Aug 2020 22:00:05 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202008132200/</guid>
+      <description>Android New strings: + AccDescrVoipCamOff: Camera is off + AccDescrVoipCamOn: Camera is on + AccDescrVoipCamSwitchedToBack: Switched to rear camera + AccDescrVoipCamSwitchedToFront: Switched to front camera + AccDescrVoipMicOff: Microphone is off + AccDescrVoipMicOn: Microphone is on + ContactShortcutVideoCall: Video call %1$s + ContactShortcutVoiceCall: Voice call %1$s + ContactShortcutMessage: Message %1$s + VoipUserCameraIsOff: %s&amp;#39;s camera is off + VoipUserMicrophoneIsOff: %s&amp;#39;s microphone is off + VoipSwitchToVideoCall: Switch to video call? + VoipFlip: Flip + VoipSpeaker: Speaker + VoipStopVideo: Stop Video + VoipStartVideo: Start Video + VoipMute: Mute + VoipUnmute: Unmute + TapToTurnCamera: Tap here to turn on your camera + VoipInVideoCallBrandingWithName: Telegram Video Call to %s + VoipOutputDevices: Output Devices + VideoCallViaTelegram: Telegram Video Call + VoipNeedMicCameraPermission: Telegram needs access to your microphone and camera so that you can make video calls.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

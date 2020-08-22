@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 20:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202008222000/</link>
+      <pubDate>Sat, 22 Aug 2020 20:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202008222000/</guid>
+      <description>TDesktop New strings: + lng_call_error_camera_outdated: {user}&amp;#39;s app does not support video calls. They need to update their app. + lng_call_error_camera_not_started: You can switch to video call once you&amp;#39;re connected. + lng_call_error_no_camera: No camera could be found. Please make sure that your camera is connected to the computer. + lng_recent_stickers_remove: Remove from Recent + lng_settings_call_camera: Camera + lng_call_microphone_off: {user}&amp;#39;s microphone is off + lng_call_cancel: Cancel + lng_call_redial: Redial + lng_call_decline: Decline + lng_call_accept: Accept + lng_call_unmute_audio: Unmute + lng_call_mute_audio: Mute + lng_call_end_call: End Call + lng_call_stop_video: Stop Video + lng_call_start_video: Start Video + lng_call_video_declined: Declined video call + lng_call_video_cancelled: Cancelled video call + lng_call_video_missed: Missed video call + lng_call_video_incoming: Incoming video call + lng_call_video_outgoing: Outgoing video call + lng_context_delete_gif: Delete GIF</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

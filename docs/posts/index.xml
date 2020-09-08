@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 14:00:03 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202009081400/</link>
+      <pubDate>Tue, 08 Sep 2020 14:00:03 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202009081400/</guid>
+      <description>Android New strings: + VoipReconnecting: Reconnecting + RateCallVideoPixelated: Video was pixelated + RateCallVideoDistorted: Video was distorted + VoipPeerVideoOutdatedMakeVoice: Make a voice call + VoipPeerVideoOutdated: Sorry, **%1$s** is using an old version of Telegram that doesn&amp;#39;t support video calls. + VoipVideoUnavailable: Video + VoipAudioRoutingHeadset: Headset 
+Changed strings: - MuteDisable: Disable + MuteDisable: Mute forever - CallsDataUsage: Call settings + CallsDataUsage: Calls  iOS New strings: + CallFeedback.VideoReasonLowQuality: Video was pixelated + CallFeedback.</description>
+    </item>
     
     <item>
       <title>Changes to TDesktop</title>

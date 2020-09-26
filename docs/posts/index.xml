@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202009260000/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202009260000/</guid>
+      <description>Android Changed strings: - SharedMusicTab: AUDIO + SharedMusicTab: MUSIC - SharedMusicTab2: Audio + SharedMusicTab2: Music</description>
+    </item>
     
     <item>
       <title>Changes to iOS, TDesktop</title>

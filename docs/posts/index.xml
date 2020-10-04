@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 22:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202010042200/</link>
+      <pubDate>Sun, 04 Oct 2020 22:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202010042200/</guid>
+      <description>iOS Changed strings: - Stats.GroupTopAdminBans_one: %@ ban + Stats.GroupTopAdminBans_one: %@ restriction - Stats.GroupTopAdminBans_other: %@ bans + Stats.GroupTopAdminBans_other: %@ restrictions - Stats.GroupTopAdminKicks_one: %@ kick + Stats.GroupTopAdminKicks_one: %@ ban - Stats.GroupTopAdminKicks_other: %@ kicks + Stats.GroupTopAdminKicks_other: %@ bans</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2020 22:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 02:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X, TDesktop</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202010060200/</link>
+      <pubDate>Tue, 06 Oct 2020 02:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202010060200/</guid>
+      <description>Android New strings: + Block: BLOCK + BlockAndDeleteReplies: BLOCK AND DELETE REPLIES + BlockUserReplyAlert: Do you want to block messages from **%1$s**? + BotOwnershipTransfer: Transfer Bot Ownership + BotOwnershipTransferAlertText: You can transfer bot only if you have: + BotOwnershipTransferChangeOwner: Change Owner + BotOwnershipTransferReadyAlertText: This will transfer the **full owner** rights for the bot to the selected user. + CallAlert: Are you sure you want to call **%1$s**? + CallAlertTitle: Voice Call + ChannelCantOpenBannedByAdmin: Sorry, you can&amp;#39;t access this chat because you were banned by an admin.</description>
+    </item>
     
     <item>
       <title>Changes to iOS</title>

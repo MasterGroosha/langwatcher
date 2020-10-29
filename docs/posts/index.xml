@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 04:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 18:00:04 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to Android, iOS, Android_X</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202010291800/</link>
+      <pubDate>Thu, 29 Oct 2020 18:00:04 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202010291800/</guid>
+      <description>Android New strings: + AccDescrLocationNotify: Notify when people sharing location are in range + AccPinnedMessagesList: Pinned message list + ActionUserWithinOtherRadius: un1 is now within %1$s from un2 + ActionUserWithinRadius: un1 is now within %1$s from you + AttachLiveLocationIsSharingChat: %1$s sharing with %2$s + AttachLiveLocationIsSharingChats: %1$s sharing with %2$s + AudioSavedHint: File saved to music + AudiosSavedHint_one: File saved to music + AudiosSavedHint_other: %1$d files saved to music + CommentsNoNumber_one: comment + CommentsNoNumber_other: comments + FileSavedHint: File saved to downloads + FilesSavedHint_one: File saved to downloads + FilesSavedHint_other: %1$d files saved to downloads + FootsShort: %1$s ft + GifSavedToDownloadsHint: GIF saved to downloads + HidePinnedMessages: HIDE PINNED MESSAGES + KMetersShort: %1$s km + Km: km + LocationNotifiation: Proximity alert + LocationNotifiationButton: Notify me within %1$s + LocationNotifiationButtonGroup: Notify when someone is within %1$s + LocationNotifiationButtonUser: Notify when %1$s is within %2$s + LocationNotifiationCloser: You are already closer than %1$s + MediaSavedHint_one: One item saved to gallery + MediaSavedHint_other: %1$d items saved to gallery + MessagePinnedHint: Message pinned + MessageUnpinnedHint: Message unpinned + MessagesUnpinned_one: message unpinned + MessagesUnpinned_other: %1$d messages unpinned + MetersShort: %1$s m + Mi: mi + MilesShort: %1$s mi + NewContactAlertButton: Add contact + NewContactAlertMessage: The phone number **%1$s** is not in your contact list.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>

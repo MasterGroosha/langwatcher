@@ -6,10 +6,19 @@
     <description>Recent content on Telegram Language Watcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2020 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 14:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://mastergroosha.github.io/langwatcher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Changes to iOS</title>
+      <link>https://mastergroosha.github.io/langwatcher/posts/202010311400/</link>
+      <pubDate>Sat, 31 Oct 2020 14:00:02 +0000</pubDate>
+      
+      <guid>https://mastergroosha.github.io/langwatcher/posts/202010311400/</guid>
+      <description>iOS Changed strings: - Location.ProximityAlertSetTextGroup: We will notify you once any group member is within %2$@ from you. + Location.ProximityAlertSetTextGroup: We will notify you once any group member is within %@ from you.</description>
+    </item>
     
     <item>
       <title>Changes to Android</title>
